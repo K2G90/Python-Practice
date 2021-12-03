@@ -28,3 +28,15 @@ that are not assigned to a variable!
 
 x = 5
 y = "Hello World!"
+
+
+#CASTING VARIABLES
+
+"""
+Casting is the process of specifying
+the data type of a variable.
+"""
+
+x = str(3) # x will be '3'
+y = int(3) # y will be 3
+z = float(3) # z will be 3.0
