@@ -1,7 +1,10 @@
+# VARIABLES
+
+# Variables are created like so
+
 x = 5
 y = "Hello World!"
 
-# Variables are created like so
 
 # COMMENTS
 
@@ -13,3 +16,11 @@ y = "Hello World!"
 
 # Comments can be used to prevent execution when testing code.
 
+
+"""
+This a comment written in 
+more than one line. 
+
+Python ignores string literals
+that are not assigned to a variable!
+"""
