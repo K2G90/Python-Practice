@@ -1,9 +1,3 @@
-# VARIABLES
-
-# Variables are created like so
-
-x = 5
-y = "Hello World!"
 
 
 # COMMENTS
@@ -24,3 +18,13 @@ more than one line.
 Python ignores string literals
 that are not assigned to a variable!
 """
+
+# VARIABLES
+
+#Variables are containers for storing data values.
+# There is no command for decalring variables in Python.
+
+# Variables are created like so:
+
+x = 5
+y = "Hello World!"
